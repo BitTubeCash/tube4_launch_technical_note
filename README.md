@@ -15,6 +15,7 @@ BitTube Release 3.1 introduced the "sweep_tube4" cli and rpc commands, the gui w
 - tube4 introduces cuckaroo mining and a new stratum protocol, reference pool implementation: https://github.com/BitTubeCash/cryptonote-cuckoo-js-pool
 - a stagenet is available here: Pool: https://mining.bittube.app/tube4_stagenet/ ; Explorer: http://139.162.211.9:6672/ ; Webwallet: http://139.162.211.9:6651/#!/
 - current bittube4 release: https://github.com/BitTubeCash/bittubecash/releases
+- tube4 has a differend wallet address prefix, differend default rpc/p2p ports and differend default blockchain folders, tube3 and tube4 can be run in parallel
 
 # BitTube 3 -> BitTube 4 Coinswap
 

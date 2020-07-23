@@ -20,3 +20,4 @@ BitTube Release 3.1 introduced the "sweep_tube4" cli and rpc commands, the gui w
 - tube3 balances can be sent to the swap service using the "sweep_tube4" cli/rpc commands or the "Convert to BitTubeCash 4" GUI Wallet button
 - balances can be sent any time and until 1 year after tube4 launch
 - after tube4 has been launched balances received at the swap service will be payed to a tube4 wallet restored using the tube3 private keys or mnemonic (public wallet address prefixes differ)
+- the conversion process can be tested using tube3 / tube4 stagenets

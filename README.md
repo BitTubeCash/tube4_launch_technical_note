@@ -13,6 +13,7 @@ BitTube Release 3.1 introduced the "sweep_tube4" cli and rpc commands, the gui w
 - the tube4 mainnet is already in place with 301 blocks premined, the block 301 is checkpointed but not released to the public until launch
 - soon block 301 has been released tube4 can be mined
 - tube4 introduces cuckaroo mining and a new stratum protocol, reference pool implementation: https://github.com/BitTubeCash/cryptonote-cuckoo-js-pool
+- a stagenet is available here: Pool: https://mining.bittube.app/tube4_stagenet/ ; Explorer: http://139.162.211.9:6672/ ; Webwallet: http://139.162.211.9:6651/#!/
 
 # BitTube 3 -> BitTube 4 Coinswap
 
